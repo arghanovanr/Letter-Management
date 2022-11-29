@@ -2,13 +2,13 @@
 This is my student internship final project 
 ###########################################
 
-this website developed using <br />
-* Codeigniter <br />
-* Bootstrap <br />
-* php <br />
-* XAMPP <br />
-* MySQL <br />
+this website developed using 
 
+-  Codeigniter                                          
+-  Bootstrap
+-  php 
+-  XAMPP 
+-  MySQL 
 
 
 
